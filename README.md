@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Devashish, a Computer Science undergrad👨‍💻working to level up my skills and grab opportunities.🚀
+### Hi there 👋 I'm Devashish, a Computer Science undergrad👨‍💻who is keen to code to level up the skills and explore more to make a successful career.🚀
 
 # 💫 About Me:
 🔭 I’m currently working on my FrontEnd Skills<br>🌱 I’m currently learning MERN Stack<br>🤔Goal- To be a successful MERN Stack developer<br>❓ Ask me about anything related to RPA Development and Video Editing and Graphic Designing.<br>⚡ Fun fact: I use tabs over spaces<br><br>
