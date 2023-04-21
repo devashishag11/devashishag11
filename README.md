@@ -2,7 +2,6 @@
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 
 
-- 🔭 I’m currently working on **ToonStream.**
 
 - 🌱 I’m currently learning **Frontend web deveopment.**
 
